@@ -1,0 +1,13 @@
+build/
+.idea/
+.gradle/
+target/
+classes/
+out/
+data/
+*.log
+*.ipr
+*.iws
+*.iml
+.DS_Store
+ApplicationAutomationTest.iml
