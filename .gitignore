@@ -1,3 +1,5 @@
+src/main/java/za/co/ilab/automation/images/
+src/main/java/za/co/ilab/automation/extentreport/
 build/
 .idea/
 .gradle/
