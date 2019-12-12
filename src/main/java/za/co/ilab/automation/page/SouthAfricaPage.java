@@ -18,7 +18,7 @@ public class SouthAfricaPage {
     private WebDriver driver;
     private ExtentTest extentTest;
 
-    @FindBy( xpath = "//*[text() = 'Senior Test Automation Specialist – Cape Town']" )
+    @FindBy( xpath = "//*[@href='https://www.ilabquality.com/job/senior-test-automation-specialist-cape-town-2/']" )
     WebElement openVacation;
 
     public SouthAfricaPage(WebDriver driver, ExtentTest extentTest) throws IOException {

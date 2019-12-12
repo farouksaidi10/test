@@ -3,7 +3,6 @@ package za.co.ilab.automation.listener;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
-import org.testng.Reporter;
 import za.co.ilab.automation.page.TestBase;
 
 public class ExtentTestNGITestListener extends TestBase implements ITestListener {
