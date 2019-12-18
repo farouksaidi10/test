@@ -41,7 +41,7 @@ public class ApplicationTest extends TestBase {
         onlineApplicationPage = new OnlineApplicationPage(getWebDriver(), extentTest);
         onlineApplicationPage.clickOnOnlineButton();
         onlineApplicationPage.enterApplicationInformation( name, email, cellNumber );
-        Thread.sleep(2000L);
+        Thread.sleep(500L);
     }
 
     @AfterClass( alwaysRun = true )

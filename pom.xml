@@ -61,7 +61,7 @@
                     <suiteXmlFiles>
                         <suiteXmlFile>testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
-                </configuration>
+                </configuration>fbfd
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
